@@ -70,8 +70,7 @@ Example finding:
 
 
 * Raw logs in Splunk
-<img width="1363" height="723" alt="Screenshot 2026-05-02 145711" src="https://github.com/user-attachments/assets/5593c8e3-a684-4df5-969c-02b44d3c3b6d" />
-
+![alt text](<Screenshot 2026-05-02 145711.png>)
 * SPL query execution
 ![alt text](<Screenshot 2026-05-02 145530.png>)
 * Detection results
